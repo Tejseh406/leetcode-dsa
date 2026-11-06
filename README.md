@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Tejseh406/leetcode-dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejseh406/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Tejseh406/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Tejseh406/leetcode-dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejseh406/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Tejseh406/leetcode-dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejseh406/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -26,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Tejseh406/leetcode-dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejseh406/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Tejseh406/leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejseh406/leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
