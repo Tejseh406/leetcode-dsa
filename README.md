@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejseh406/leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejseh406/leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejseh406/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Tejseh406/leetcode-dsa/tree/master/0146-lru-cache) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tejseh406/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejseh406/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Tejseh406/leetcode-dsa/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,10 +108,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Tejseh406/leetcode-dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tejseh406/leetcode-dsa/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Tejseh406/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Tejseh406/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tejseh406/leetcode-dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
