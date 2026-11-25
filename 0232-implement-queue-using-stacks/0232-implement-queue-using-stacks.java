@@ -11,28 +11,25 @@ class MyQueue {
     }
 
     public void push(int x) {
+        while(!inStack.isEmpty()){
+            outStack.push(inStack.pop());
+        }
         inStack.push(x);
+
+        while(!outStack.isEmpty()){
+            inStack.push(outStack.pop());
+        }
     }
 
     public int pop() {
-        moveIfNeeded();
-        return outStack.pop();
+        return inStack.pop();
     }
 
     public int peek() {
-        moveIfNeeded();
-        return outStack.peek();
+        return inStack.peek();
     }
 
     public boolean empty() {
         return inStack.isEmpty() && outStack.isEmpty();
-    }
-
-    private void moveIfNeeded() {
-        if (outStack.isEmpty()) {
-            while (!inStack.isEmpty()) {
-                outStack.push(inStack.pop());
-            }
-        }
     }
 }
